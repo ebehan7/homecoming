@@ -28,6 +28,8 @@ This repository covers my TunePad-coded version of Kanye West's 'Homecoming' fea
 
 - More specifically, the 'playNote([])' command is used often to play multiple notes at one time.
 
+- The 'velocity' feature is also used to control the volume of the different drums in the introduction.
+
 
 ## Setup
 
