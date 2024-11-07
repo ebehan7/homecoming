@@ -13,7 +13,7 @@ This repository covers my TunePad-coded version of Kanye West's 'Homecoming' fea
 
 ## General Information
 
-- TunePad Link: https://tunepad.com/project/90817
+- TunePad Link: [https://tunepad.com/project/90817](https://tunepad.com/project/90863)
   
 - Within the code, #Piano piece marks the part of code that applies to the piano sector of the music and #Drum piece applies to that of the drums.
 
