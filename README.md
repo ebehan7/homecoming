@@ -1,5 +1,30 @@
-# homecoming
+Homecoming
 This repository covers my TunePad-coded version of Kanye West's 'Homecoming' featuring Chris Martin.
+
+TunePad Link: https://tunepad.com/project/90817
+
+Homecoming - Kanye West (feat. Chris Martin)
+This is a completed project.
+
+Within the code, #Piano piece marks the part of code that applies to the piano sector of the music and #Drum piece applies to that of the drums.
+
+The '#Phrase _' titles mark the commencement of different musical phrases, noted in text but more easily recognisable by ear.
+
+Each '#bar _' denotes that a line of code commences in a specific bar on the TunePad code.
+
+This project employs TunePad code technology, mainly using commands such as 'playNote', 'rest', and 'sustain', as well as controlling the length of notes within their brackets.
+
+More specifically, the 'playNote([])' command is used often to play multiple notes at one time.
+
+To run this code, simply follow the TunePad link proivided above, navigate to the top right hand corner and select the black 'play' arrow.
+
+Information sources that assisted in the writing of this code:
+~ TunePad Documentation. (2024). Learn TunePad. https://learn.tunepad.com/docs/
+~ Musescore. (2022, November 4). Homecoming. Musescore.com; Musescore. https://musescore.com/user/38439852/scores/8939296/piano-tutorial
+
+‌
+‌
+
 
 #Homecoming - Kanye West (feat. Chris Martin)
 #Piano piece
