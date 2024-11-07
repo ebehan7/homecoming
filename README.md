@@ -1,10 +1,14 @@
-Homecoming
+Homecoming...
 This repository covers my TunePad-coded version of Kanye West's 'Homecoming' featuring Chris Martin.
+
+* [General Info](#general-information)
 
 TunePad Link: https://tunepad.com/project/90817
 
 Homecoming - Kanye West (feat. Chris Martin)
 This is a completed project.
+
+## General Information
 
 Within the code, #Piano piece marks the part of code that applies to the piano sector of the music and #Drum piece applies to that of the drums.
 
